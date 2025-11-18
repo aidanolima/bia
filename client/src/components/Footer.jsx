@@ -5,9 +5,9 @@ const Footer = () => {
   return (
     <footer>
       <div className="footer-content">
-        <p>Formação AWS 2025</p>
+        <p>Laboratório ASL TECH AWS 2025</p>
         <Link to="/about" className="footer-link">
-          Sobre a BIA
+          Sobre a ASL TECH
         </Link>
       </div>
     </footer>

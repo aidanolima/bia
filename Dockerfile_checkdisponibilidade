@@ -4,7 +4,7 @@ FROM alpine
 ENV TZ=America/Sao_Paulo
 
 # Endereço para teste
-ENV URL=https://www.google.com.br
+ENV URL=https://tarefas.aidanolimalab.com.br
 
 # Instala curl e configura timezone
 RUN apk add --no-cache curl tzdata \

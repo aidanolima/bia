@@ -31,7 +31,7 @@ const DadosHenrylle = () => {
           rel="noopener noreferrer"
           className="link-card"
         >
-          <h4>🎥 YouTube</h4>
+          <h4>🎥 Portal</h4>
           <p>Canal oficial</p>
         </a>
         

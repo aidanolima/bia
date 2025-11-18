@@ -24,7 +24,7 @@ const Header = ({ title }) => {
 };
 
 Header.defaultProps = {
-  title: "BIA 2025",
+  title: "ASL REG TASK 2025",
 };
 
 export default Header;
